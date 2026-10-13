@@ -1,0 +1,22 @@
+MARCELOCAR — SITE COMPLETO
+
+Versão mais recente, com fundo branco, ícones atualizados e ajustes para telas menores.
+
+PUBLICAR NO CLOUDFLARE PAGES
+Descompacte o ZIP e envie os arquivos, mantendo index.html na raiz e a pasta assets junto dele.
+É um site estático: não precisa de instalação de dependências nem comando de build.
+
+PUBLICAR NA VERCEL
+Importe esta pasta como projeto estático, com preset Other e sem comando de build.
+
+GOOGLE MAPS
+Os mapas incorporados já são interativos. Para usar a API oficial Maps Embed, configure sua chave em maps-config.js. Restrinja a chave aos domínios do site e à Maps Embed API no Google Cloud.
+
+EDIÇÃO
+index.html: textos, links e seções.
+style.css: layout e aparência.
+app.js: menu e interação dos serviços.
+assets/: imagens e favicon.
+
+Crédito: Desenvolvido por Guilherme Lima
+Portfólio: https://portfolio-guilherme-lima.vercel.app/
